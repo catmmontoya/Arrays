@@ -1,3 +1,3 @@
 const meals = ["artichokes", "bbq", "pizza", "donuts"];
 
-console.log;
+console.log(meals[0]);
